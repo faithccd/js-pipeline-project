@@ -7,4 +7,4 @@ services:
     volumes:
       - .:/code
     ports:
-      - "6080:80"
+      - "80:80"
